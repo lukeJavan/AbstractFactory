@@ -10,4 +10,4 @@ For example, all chair variants can implement the Chair interface; all table var
 
 This pattern follows the Open/Closed principle and the Single Responsibility Principle.
 
-This small demo uses two different styles, Victorian Furniture and Modern Furniture as an example.
+This small demo uses two different styles, with two different items Victorian Furniture and Modern Furniture with both Chair and Table classes.
