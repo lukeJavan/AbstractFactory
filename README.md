@@ -8,4 +8,4 @@ Then you can make all variants of products follow those interfaces.
 
 For example, all chair variants can implement the Chair interface; all table variants can implement the Table interface, and so on.
 
-### This pattern follows the Open/Closed principle and the Single Responsibility Principle.
+This pattern follows the Open/Closed principle and the Single Responsibility Principle.
