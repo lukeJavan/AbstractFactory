@@ -1,0 +1,14 @@
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.deps.json
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.runtimeconfig.json
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.dll
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/bin/Debug/net8.0/AbstractFactory.pdb
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.AssemblyInfo.cs
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.dll
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/obj/Debug/net8.0/refint/AbstractFactory.dll
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.pdb
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/obj/Debug/net8.0/AbstractFactory.genruntimeconfig.cache
+/Users/Luke/Repos/DesignPatterns/AbstractFactory/obj/Debug/net8.0/ref/AbstractFactory.dll
